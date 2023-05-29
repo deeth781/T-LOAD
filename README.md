@@ -58,9 +58,9 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * ` git clone https://github.com/noob-hackers/T-LOAD`
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd Dino`
 * `ls`
-* `bash t-load.sh`
+* `bash Dino`
 ```
 [+]--Now make sue that you internet connection is on and after that the installation starts automatically
 [+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
@@ -148,7 +148,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * `ls`
 * `cd Dino`
 * `ls`
-* `bash t-load.sh`
+* `bash Dino.sh`
 ```
 [+]--Now make sue that you internet connection is on and after that the installation starts automatically
 [+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
